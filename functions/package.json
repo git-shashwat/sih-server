@@ -13,6 +13,7 @@
     "node": "8"
   },
   "dependencies": {
+    "axios": "^0.19.2",
     "camelcase": "^6.0.0",
     "cors": "^2.8.5",
     "eslint-config-standard": "^14.1.1",
