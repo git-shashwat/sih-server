@@ -9,3 +9,4 @@ admin.initializeApp({
 
 exports['dbSensorsOnPushSensorData'] = require('./db/sensors/onPushSensorData.function');
 exports['fcmNotificationOnPushAlertNotification'] = require('./fcm/notification/onPushAlertNotification.function');
+exports['dbWeatherOnReadHourlyData'] = require('./db/weather/onReadHourlyData.function');
